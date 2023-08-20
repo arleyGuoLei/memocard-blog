@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmemocard_blog=self.webpackChunkmemocard_blog||[]).push([[10927],{310927:(e,c,s)=>{s.r(c)}}]);
